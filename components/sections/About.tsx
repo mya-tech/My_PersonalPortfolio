@@ -109,7 +109,7 @@ export const About = () => {
             <div className="relative w-64 h-80 sm:w-72 sm:h-96 rounded-2xl border-4 border-border-light bg-bg-secondary shadow-lg overflow-hidden group">
               {!imgError ? (
                 <Image
-                  src="/My_pic2.heic"
+                  src="/My_pic2.jpg"
                   alt="Maryam-Ya Touré working profile"
                   fill
                   className="object-cover group-hover:scale-102 transition-transform duration-500"

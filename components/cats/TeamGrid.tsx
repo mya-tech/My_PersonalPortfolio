@@ -50,7 +50,7 @@ export const TeamGrid: React.FC<TeamGridProps> = ({ cats }) => {
         <div className="relative mb-5 h-44 w-36 overflow-hidden rounded-lg border-2 border-accent-mid/50 bg-bg-primary shadow-sm group-hover:scale-[1.02] transition-transform duration-300">
           {!imgError ? (
             <Image
-              src="/images/maryamya.jpg"
+              src="/My_pic.jpg"
               alt="Maryam-Ya Touré"
               fill
               className="object-cover"

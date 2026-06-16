@@ -160,7 +160,7 @@ export const Hero = () => {
             {/* Image Placeholder */}
             {!imgError ? (
               <Image
-                src="/My_pic.heic"
+                src="/My_pic.jpg"
                 alt="Maryam-Ya Touré portrait"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
