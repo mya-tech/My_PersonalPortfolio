@@ -1,0 +1,27 @@
+/* styles/tokens.css */
+:root {
+  /* Backgrounds */
+  --color-bg-primary:     #FFFFFF;
+  --color-bg-secondary:   #F5F7F2;
+  --color-bg-tertiary:    #EAF3DE;
+
+  /* Brand greens */
+  --color-accent-light:   #C0DD97;
+  --color-accent-mid:     #639922;
+  --color-accent-dark:    #3B6D11;
+  --color-accent-deeper:  #173404;
+
+  /* Text */
+  --color-text-primary:   #1C2614;
+  --color-text-secondary: #5F5E5A;
+  --color-text-muted:     #888780;
+
+  /* Borders */
+  --color-border-light:   #D3D1C7;
+  --color-border-mid:     #C0DD97;
+
+  /* Tags / pills */
+  --color-tag-bg:         #EAF3DE;
+  --color-tag-text:       #3B6D11;
+  --color-tag-border:     #C0DD97;
+}
